@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.595820bb.css",
+    "main.js": "/static/js/main.e1d98942.js",
+    "static/js/453.150dc45e.chunk.js": "/static/js/453.150dc45e.chunk.js",
+    "static/media/MainStars.svg": "/static/media/MainStars.f3d01d721c02defbcf52.svg",
+    "static/media/ThirdCard.svg": "/static/media/ThirdCard.e45facf7130fba39c0e0.svg",
+    "static/media/FourthCard.svg": "/static/media/FourthCard.95331ddbf441ff7ccdfb.svg",
+    "static/media/FirstCard.svg": "/static/media/FirstCard.f646a7b54924d8d35fc2.svg",
+    "static/media/SecondCard.svg": "/static/media/SecondCard.7811fd44c1f42d6a2417.svg",
+    "static/media/SecondCardMini.svg": "/static/media/SecondCardMini.c7b2237ce26d1d59b142.svg",
+    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.78c0192c25c917d9359a.woff",
+    "static/media/Lato-Black.woff": "/static/media/Lato-Black.4ff22031f4336ff44714.woff",
+    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.a37f84abc8d50ca4e478.woff2",
+    "static/media/Lato-Black.woff2": "/static/media/Lato-Black.2f161d5b12b7b968714d.woff2",
+    "static/media/CartColor.svg": "/static/media/CartColor.130703b7b0cf9871648f.svg",
+    "index.html": "/index.html",
+    "static/media/CardLayout.svg": "/static/media/CardLayout.9cf555ff4f1772469389.svg",
+    "static/media/Layout.svg": "/static/media/Layout.d7d728adc80076e7fa90.svg",
+    "main.595820bb.css.map": "/static/css/main.595820bb.css.map",
+    "main.e1d98942.js.map": "/static/js/main.e1d98942.js.map",
+    "453.150dc45e.chunk.js.map": "/static/js/453.150dc45e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595820bb.css",
+    "static/js/main.e1d98942.js"
+  ]
+}
